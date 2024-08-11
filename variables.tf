@@ -1,6 +1,6 @@
 variable "resource_group_name" {
   type    = string
-  default = "Tf_Task_St_Container-resources"
+  default = "tf_task_st_container-resources"
 }
 
 variable "location" {
